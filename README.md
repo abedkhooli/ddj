@@ -8,7 +8,7 @@
 * Session 1
  * Trainer's notes: to be added
 * Session 2 
- * Trainer's notes: to be added
+ * Trainer's notes: [Data Sources] (DataSources.pdf)
  * West Bank hotels data: there seems to be an error in the occupancy ratio. See [this Excel file](WestBank-Hotels.xlsx). Original data from [PCBS] (http://www.pcbs.gov.ps/Portals/_Rainbow/Documents/T.S-%20Tourism-%20An-A-2015.htm) (direct link) 
  * Anonymous quizz: [review of session 1 and brain storming for session 2](ddj-after-session1.docx) 
  * The Palestinian [right to information draft law](right-to-info-law-draft.doc)
