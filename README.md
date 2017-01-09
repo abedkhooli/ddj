@@ -15,3 +15,4 @@
  * The Palestinian [right to information draft law](right-to-info-law-draft.doc)
 
 
+Last updated: January 9, 2017
