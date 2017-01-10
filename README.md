@@ -10,9 +10,9 @@
  * Trainer's notes: to be added
 * Session 2 
  * Trainer's notes: [Data Sources] (DataSources.pdf)
- * West Bank hotels data: there seems to be an error in the occupancy ratio. See [this Excel file](WestBank-Hotels.xlsx). Original data from [PCBS] (http://www.pcbs.gov.ps/Portals/_Rainbow/Documents/T.S-%20Tourism-%20An-A-2015.htm) (direct link) 
+ * West Bank hotels data: there seems to be an error in the occupancy ratio. See [this Excel file](WestBank-Hotels.xlsx) which has two sheets (data re-ordered and chart added in sheet2). Original data from [PCBS] (http://www.pcbs.gov.ps/Portals/_Rainbow/Documents/T.S-%20Tourism-%20An-A-2015.htm) (direct link). Try also to correlate the chart on sheet2 with data and chart from [WorldBank](http://data.worldbank.org/indicator/DT.ODA.ALLD.CD?locations=PS)  
  * Anonymous quiz: [review of session 1 and brain storming for session 2](ddj-after-session1.docx) 
  * The Palestinian [right to information draft law](right-to-info-law-draft.doc)
 
 
-Last updated: January 9, 2017
+Last updated: January 10, 2017
