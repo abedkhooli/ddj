@@ -15,5 +15,6 @@
  * The Palestinian [right to information draft law](right-to-info-law-draft.doc)
 * Session 3
  * You are expected to start thinking about your final project (preferably in groups of 3 with possible exceptions). Prepare some ideas/topics and have an abstract ready by next session 
+ * We have made available [air quality data](https://github.com/abedkhooli/ds1/tree/master/data) from a sensor near Manara with over 1 million records. You can use it both for training and as part of your project.
 
-*Last updated: January 10, 2017*
+*Last updated: January 12, 2017*
