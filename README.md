@@ -7,7 +7,7 @@
  
 * Session 1
  * Pre-calss [interview and quiz] (pre-class-quiz.docx)
- * Trainer's notes: to be added
+ * Trainer's notes: [Overview of data journalism](session-1-notes.pdf)
 * Session 2 
  * Trainer's notes: [Data Sources] (DataSources.pdf)
  * West Bank hotels data: there seems to be an error in the occupancy ratio. See [this Excel file](WestBank-Hotels.xlsx) which has two sheets (data re-ordered and chart added in sheet2). Original data from [PCBS] (http://www.pcbs.gov.ps/Portals/_Rainbow/Documents/T.S-%20Tourism-%20An-A-2015.htm) (direct link). Try also to correlate the chart on sheet2 with data and chart from [WorldBank](http://data.worldbank.org/indicator/DT.ODA.ALLD.CD?locations=PS)  
