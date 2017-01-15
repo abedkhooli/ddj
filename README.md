@@ -7,9 +7,9 @@
  
 * Session 1
  * Pre-calss [interview and quiz] (pre-class-quiz.docx)
- * Trainer's notes: [Overview of data journalism](session-1-notes.pdf)
+ * Trainer's notes: [Overview of data journalism](notes/session-1-notes.pdf)
 * Session 2 
- * Trainer's notes: [Data Sources] (DataSources.pdf)
+ * Trainer's notes: [Data Sources] (notes/DataSources.pdf)
  * West Bank hotels data: there seems to be an error in the occupancy ratio. See [this Excel file](WestBank-Hotels.xlsx) which has two sheets (data re-ordered and chart added in sheet2). Original data from [PCBS] (http://www.pcbs.gov.ps/Portals/_Rainbow/Documents/T.S-%20Tourism-%20An-A-2015.htm) (direct link). Try also to correlate the chart on sheet2 with data and chart from [WorldBank](http://data.worldbank.org/indicator/DT.ODA.ALLD.CD?locations=PS)  
  * Anonymous quiz: [review of session 1 and brain storming for session 2](ddj-after-session1.docx) 
  * The Palestinian [right to information draft law](right-to-info-law-draft.doc)
@@ -17,4 +17,4 @@
  * You are expected to start thinking about your final project (preferably in groups of 3 with possible exceptions). Prepare some ideas/topics and have an abstract ready by next session 
  * We have made available [air quality data](https://github.com/abedkhooli/ds1/tree/master/data) from sensors in the Ramallah area. You can use it both for training and as part of your project.
 
-*Last updated: January 14, 2017*
+*Last updated: January 15, 2017*
