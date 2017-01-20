@@ -17,5 +17,6 @@
 * Session 3
  * You are expected to start thinking about your final project (preferably in groups of 3 with possible exceptions). Prepare some ideas/topics and have an abstract ready by next session 
  * We have made available [air quality data](https://github.com/abedkhooli/ds1/tree/master/data) from sensors in the Ramallah area. You can use it both for training and as part of your project.
+ * Trainer's notes: [Data Search and Acquisition](notes/DataSearchAndAcquisition.pdf)
 
-*Last updated: January 15, 2017*
+*Last updated: January 20, 2017*
