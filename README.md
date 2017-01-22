@@ -19,7 +19,7 @@
  * We have made available [air quality data](https://github.com/abedkhooli/ds1/tree/master/data) from sensors in the Ramallah area. You can use it both for training and as part of your project.
  * Trainer's notes: [Data Search and Acquisition](notes/DataSearchAndAcquisition.pdf)
 * Session 4
- * The excel files for crimes: [crimes in Palestine.xlsx](misc/crimes in Palestine.xlsx), [crimes2.xlsx](misc/crime2.xlsx)
+ * The excel files for crimes: [crimes in Palestine.xlsx](misc/crimes in Palestine.xlsx), [crimes2.xlsx](misc/crime2.xlsx). Here's a modified [file with governorate populations](misc/crime3.xlsx) which shows an interesting fact.
  * Trainer's notes: to be added
 
 *Last updated: January 22, 2017*
