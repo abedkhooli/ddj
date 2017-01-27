@@ -20,7 +20,7 @@
  * Trainer's notes: [Data Search and Acquisition](notes/DataSearchAndAcquisition.pdf)
 * Session 4
  * The excel files for crimes: [crimes in Palestine.xlsx](misc/crimes in Palestine.xlsx), [crimes2.xlsx](misc/crime2.xlsx). Here's a modified [file with governorate populations](misc/crime3.xlsx) which shows an interesting fact. Note: in the original file, ratios are, most likely, based on 2010 or 2011 population in West Bank (which is a problem). Here's a link to [PCBS population](http://pcbs.gov.ps/Portals/_Rainbow/Documents/gover.htm).
-  * Trainer's notes: [data to stories](notes/data2stories)
+  * Trainer's notes: [data to stories](notes/data2stories.pdf)
 * Session 5
  * Is this true? [Duck's Quacks Don't Echo](misc/ducks-echo.png) and a [horse dies if you cut its tail](misc/horse-tail.png)
  * Trainer's notes: to be added
