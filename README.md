@@ -23,6 +23,6 @@
   * Trainer's notes: [data to stories](notes/data2stories.pdf)
 * Session 5
  * Is this true? [Duck's Quacks Don't Echo](misc/ducks-echo.png) and a [horse dies if you cut its tail](misc/horse-tail.png)
- * Trainer's notes: to be added
+ * Trainer's notes: [verification](notes/verification-slides.pdf)
 
-*Last updated: January 27, 2017*
+*Last updated: February 1, 2017*
