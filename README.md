@@ -25,7 +25,8 @@
  * Is this true? [Duck's Quacks Don't Echo](misc/ducks-echo.png) and a [horse dies if you cut its tail](misc/horse-tail.png)
  * Trainer's notes: [verification](notes/verification-slides.pdf)
 * Session 6
- * Group Projects: please be sure to send your project abstract to the traaining coordinator before session 6 (group leaders sshould identify their group members and their role in the project along with the abstract)
+ * Group Projects: please be sure to send your project abstract to the traaining coordinator before session 6 (group leaders should identify their group members and their role in the project along with the abstract)
+ * A case in data verification and role of visualization: [Temperatures in Palestine on Feb. 2, 2017](misc/palweather.png)
  * Trainter's notes: to be added.
 
 *Last updated: February 2, 2017*
