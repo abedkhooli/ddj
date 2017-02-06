@@ -28,5 +28,8 @@
  * Group Projects: please be sure to send your project abstract to the training coordinator before session 6 (group leaders should identify their group members and their role in the project along with the abstract)
  * A case in data verification and role of visualization: [Temperatures in Palestine on Feb. 2, 2017](misc/palweather.png)
  * Trainter's notes: [understanding data](notes/understanding-data.pdf)
+ * Data stories and verification: [data quiz](misc/data-quiz.docx)
+* Session 7
+ * Trainer's notes: to be added
 
 *Last updated: February 6, 2017*
