@@ -19,7 +19,7 @@
  * We have made available [air quality data](https://github.com/abedkhooli/ds1/tree/master/data) from sensors in the Ramallah area. You can use it both for training and as part of your project.
  * Trainer's notes: [Data Search and Acquisition](notes/DataSearchAndAcquisition.pdf)
 * Session 4
- * The excel files for crimes: [crimes in Palestine.xlsx](misc/crimes in Palestine.xlsx), [crimes2.xlsx](misc/crime2.xlsx). Here's a modified [file with governorate populations](misc/crime3.xlsx) which shows an interesting fact (you can also view a very approximate [visualization on the map](misc/crimes.png). Note: in the original file, ratios are, most likely, based on 2010 or 2011 population in West Bank (which is a problem). Here's a link to [PCBS population](http://pcbs.gov.ps/Portals/_Rainbow/Documents/gover.htm).
+ * The excel files for crimes: [crimes in Palestine.xlsx](misc/crimes in Palestine.xlsx), [crimes2.xlsx](misc/crime2.xlsx). Here's a modified [file with governorate populations](misc/crime3.xlsx) which shows an interesting fact. You can also view a [visualization on the map](misc/crimes.png) done using [Google Fusion Tables](https://www.google.com/fusiontables/DataSource?docid=1I_K0CuZn9CiBRbAvZRNqCZGQIMZurrmuW3h17PUE). Note: in the original file, ratios are, most likely, based on 2010 or 2011 population in West Bank (which is a problem). Here's a link to [PCBS population](http://pcbs.gov.ps/Portals/_Rainbow/Documents/gover.htm).
   * Trainer's notes: [data to stories](notes/data2stories.pdf)
 * Session 5
  * Is this true? [Duck's Quacks Don't Echo](misc/ducks-echo.png) and a [horse dies if you cut its tail](misc/horse-tail.png)
@@ -31,5 +31,7 @@
  * Data stories and verification: [data quiz](misc/data-quiz.docx)
 * Session 7
  * Trainer's notes: to be added
+* Session 8
+ * Trainer's notes: to be added
 
-*Last updated: February 7, 2017*
+*Last updated: February 8, 2017*
