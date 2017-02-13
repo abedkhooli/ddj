@@ -29,9 +29,10 @@
  * A case in data verification and role of visualization: [Temperatures in Palestine on Feb. 2, 2017](misc/palweather.png). Try to compare [this data](http://www.accuweather.com/en/il/maale-edomim/213259/weather-forecast/213259) to [this data](http://www.accuweather.com/en/ps/maale-adummim/1278920/weather-forecast/1278920)
  * Trainter's notes: [understanding data](notes/understanding-data.pdf). See also this resource about [standard deviation and the 68–95–99.7 rule](https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule)
  * Data stories and verification: [data quiz](misc/data-quiz.docx)
-* Session 7
- * Trainer's notes: to be added
+* Session 7: visualizing data
+ * Remember to send the title and description of your project (for each group) ASAP
+ * Trainer's notes: [data visualization](notes/data-visualization.pdf)
 * Session 8
  * Trainer's notes: to be added
 
-*Last updated: February 8, 2017*
+*Last updated: February 13, 2017*
