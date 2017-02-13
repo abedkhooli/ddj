@@ -31,7 +31,7 @@
  * Data stories and verification: [data quiz](misc/data-quiz.docx)
 * Session 7: visualizing data
  * Remember to send the title and description of your project (for each group) ASAP
- * Trainer's notes: [data visualization](notes/data-visualization.pdf)
+ * Trainer's notes: [data visualization](notes/data-visualisation.pdf)
 * Session 8
  * Trainer's notes: to be added
 
