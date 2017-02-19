@@ -32,7 +32,8 @@
 * Session 7: visualizing data
  * Remember to send the title and description of your project (for each group) ASAP
  * Trainer's notes: [data visualization](notes/data-visualisation.pdf)
-* Session 8
- * Trainer's notes: to be added
+* Session 8 (last)
+ * Trainer's notes: [Ethics and editing skills](notes/ethics-edits.pdf)
+* Projects: please submit your writeup by March 1st. Presentations on March 5th.
 
-*Last updated: February 13, 2017*
+*Last updated: February 19, 2017*
