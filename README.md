@@ -34,6 +34,6 @@
  * Trainer's notes: [data visualization](notes/data-visualisation.pdf)
 * Session 8 (last)
  * Trainer's notes: [Ethics and editing skills](notes/ethics-edits.pdf)
-* Projects: please submit your writeup by March 1st. Presentations on March 5th.
+* Projects: please submit your writeup by March 1st (modified: March 7). Presentations on March 5th (modified: March 12).
 
-*Last updated: February 19, 2017*
+*Last updated: March 6, 2017*
