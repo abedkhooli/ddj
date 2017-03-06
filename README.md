@@ -4,9 +4,10 @@
   * If you come across a useful resource that is not listed here, please feel free to share it. 
   * For links in MS Word or Excel on this page, click the link first then select the __View Raw__ link to open it. For PDF files (if they do not open), try the __download__ button (above the display area).
   * All material is provided under the __Creative Commons Non Commercial License__: [CC BY-NC 4.0] (https://creativecommons.org/licenses/by-nc/4.0/)
- 
-* Session 1
+* Preparation
+ * Training description: [data journalism and training outline](misc/DataJournalism.pdf)
  * Pre-calss [interview and quiz] (misc/pre-class-quiz.docx)
+* Session 1
  * Trainer's notes: [Overview of data journalism](notes/session-1-notes.pdf)
  * The infographic on harassment in Egypt: data is available in this [Report in English](http://harassmap.org/en/wp-content/uploads/2014/02/287_Summaryreport_eng_low-1.pdf). Notice how they collected data!
 * Session 2 
