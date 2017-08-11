@@ -37,5 +37,6 @@
  * Trainer's notes: [Ethics and editing skills](notes/ethics-edits.pdf)
 * Projects: please submit your writeup by March 1st (modified: March 7). Presentations on March 5th (modified: March 12).
 
-* Extra: this [basic stats sheet](misc/data-journalism-math-stats.pdf) is a one-page handout for BZU data journalism elective
+* **Extra**: this [basic stats sheet](misc/data-journalism-math-stats.pdf) is a one-page handout for BZU data journalism elective 
+
 *Last updated: August 11, 2017*
