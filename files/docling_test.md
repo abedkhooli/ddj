@@ -1,0 +1,43 @@
+## CHAPTER IV: FINAL PROVISIONS
+
+## Article 12: Compliance with the provisions of these guidelines
+
+- (1) The Central Bank shall enforce compliance by Financial Institutions to the provisions of these guidelines.
+- (2) Non-compliance with the provisions of these guidelines may lead to supervisory corrective actions.
+
+## Article 13: Monitoring the implementation
+
+- (1) Financial Institutions shall implement these guidelines in phases as per Annex A of these guidelines; demonstrating their full commitment to a structured and effective process.
+- (2) External Auditors, in addition to their auditing activities; shall review the implementation of these guidelines by Financial Institutions and report any implementation challenge to the Central Bank.
+- (3) The Central Bank oversees the phased implementation of these guidelines.
+
+## Article 14: Entry into force
+
+These guidelines come into force on the date of its signature.
+
+## Done at Kigali, 25th November 2024
+
+<!-- image -->
+
+Digitally signed by BNR(GOVERNOR)
+
+RWANGOMBWA John Governor
+
+## ANNEX A: PHASED ADOPTION OF IFRS SUSTAINABILITY DISCLOSURE STANDARDS
+
+|                             | Phased adoption of IFRS Sustainability Disclosure Standards Report for financial years commencing on or after January   | Phased adoption of IFRS Sustainability Disclosure Standards Report for financial years commencing on or after January   | Phased adoption of IFRS Sustainability Disclosure Standards Report for financial years commencing on or after January   | Phased adoption of IFRS Sustainability Disclosure Standards Report for financial years commencing on or after January   |
+|-----------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| Financial Institutions(Fls) | Report for financial years commencing on or after January                                                               | Report for financial years commencing on or after January                                                               | Report for financial years commencing on or after January                                                               | Report for financial years commencing on or after January                                                               |
+| Institutions(Fls)           | 2025                                                                                                                    | 2026                                                                                                                    | 2027                                                                                                                    | 2028                                                                                                                    |
+| Tier Fls                    | Comply with the Implementation Phase reporting requirements (Article                                                    | Comply with the Implementation Phase 2 reporting requirements (Article 8)                                               | Comply with the Implementation Phase 3 reporting requirements (Article 9)                                               | Comply with IFRS Sustainability Disclosure Standards excluding all transition reliefs provided in those standards       |
+| Tier Fls                    | Reporting date: Within 5 months of year-end                                                                             | Reporting date: Within 5 months of year-end                                                                             | Reporting date: Within 5 months of year-end                                                                             | Reporting date: Within 3 months of year-end                                                                             |
+| Financial                   | Report for financial years commencing on or after January                                                               | Report for financial years commencing on or after January                                                               | Report for financial years commencing on or after January                                                               | Report for financial years commencing on or after January                                                               |
+| Institutions(Fls)           | 2026                                                                                                                    | 2027                                                                                                                    | 2028                                                                                                                    | 2029                                                                                                                    |
+| Fls                         | Comply with the Implementation Phase reporting requirements (Article                                                    | Comply with the Implementation Phase 2 reporting requirements (Article 8)                                               | Comply with the Implementation Phase 3 reporting requirements (Article 9)                                               | Comply with IFRS Sustainability Disclosure Standards excluding all transition reliefs provided in those standards       |
+| Fls                         | Reporting date: Within 5 months of year-end                                                                             | Reporting date: Within 5 months of year-end                                                                             | Reporting date: Within 5 months of year-end                                                                             | Reporting date: Within 3 months of year-end                                                                             |
+| Financial                   | Report for financial years commencing on or after January                                                               | Report for financial years commencing on or after January                                                               | Report for financial years commencing on or after January                                                               | Report for financial years commencing on or after January                                                               |
+| Financial Institutions(Fls) | 2027                                                                                                                    | 2028                                                                                                                    | 2029                                                                                                                    | 2030                                                                                                                    |
+| Tier IV reporting date      | Comply with the Implementation Phase reporting requirements (Article                                                    | Comply with the Implementation Phase 2 reporting requirements (Article 8)                                               | Comply with the Implementation Phase 3 reporting requirements (Article 9                                                | Comply with IFRS Sustainability Disclosure Standards excluding all transition reliefs provided in those standards       |
+| Tier IV reporting date      | Reporting date: Within 9 months of year-end                                                                             | Reporting date: Within 7 months of year-end                                                                             | Reporting date: Within 5 months of year-end                                                                             | Reporting date: Within 3 months of year-end                                                                             |
+
+- IFRS Sl paragraph 64 requires IFRS compliant entities report sustainability-related financial disclosures at the same time as the related financial statements.
